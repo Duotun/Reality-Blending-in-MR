@@ -1,10 +1,8 @@
 # Reality-Blending-in-MR
 
-A curated collection of Reality Blending in Mixed Reality (MR) Papers and Research
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A collection of papers about Reality Blending explorations in Mixed Reality environments. This focuses on seamless integration of virtual and real worlds, occlusion handling, and spatial understanding for immersive MR experiences.
+A collection of papers about Reality Blending explorations in Mixed Reality environments. This focuses on seamless integration of virtual and real worlds, safety boundary handling, and spatial understanding for immersive MR experiences.
 
 **Outlines**
 
@@ -71,6 +69,7 @@ A collection of papers about Reality Blending explorations in Mixed Reality envi
 | --- | --- |
 | [Mixed Reality Toolkit](https://github.com/microsoft/MixedRealityToolkit-Unity) | Microsoft |
 | [ARCore Papers and Resources](https://developers.google.com/ar) | Google | 
+
 
 
   
