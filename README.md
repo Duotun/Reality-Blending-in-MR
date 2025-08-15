@@ -32,6 +32,9 @@ A collection of papers about Reality Blending explorations in Mixed Reality envi
 | [A Qualitative Investigation of User Transitions and Frictions in Cross-Reality Applications](https://dl.acm.org/doi/full/10.1145/3706598.3713921) | CHI 2025 | |
 | ⭐ [Investigating Guardian Awareness Techniques to Promote Safety in Virtual Reality](https://mauriciosousa.github.io/assets/publications/481500a631.pdf) | IEEE VR 2023 |  |
 | [You Invaded my Tracking Space! Using Augmented Virtuality for Spotting Passersby in Room-Scale Virtual Reality](https://dl.acm.org/doi/10.1145/3322276.3322334) | DIS 2019 |  |
+| ⭐ [Invisible Boundaries for VR: Auditory and Haptic Signals as Indicators for Real World Boundaries](https://ieeexplore.ieee.org/document/9199565) | TVCG 2020 |  |
+| [Vibro-tactile Feedback for Real-world Awareness in Immersive Virtual Environments](https://ieeexplore.ieee.org/abstract/document/8798036) | IEEE VR 2019 |  |
+
 
 
 ## Substitutional Reality
@@ -48,6 +51,7 @@ A collection of papers about Reality Blending explorations in Mixed Reality envi
 | [Wizard of Props: Mixed Reality Prototyping with Physical Props to Design Responsive Environments](https://dl.acm.org/doi/abs/10.1145/3623509.3633395) | TEI 2024 |  |
 | [SwitchSpace: Understanding Context-Aware Peeking Between VR and Desktop Interfaces](https://dl.acm.org/doi/abs/10.1145/3613904.3642358) | CHI 2024 |  |
 | [PetPresence: Investigating the Integration of Real-World Pet Activities in Virtual Reality](https://ieeexplore.ieee.org/document/10458353) | TVCG 2024 |  |
+| [Designing Visuo-Haptic Illusions with Proxies in Virtual Reality: Exploration of Grasp, Movement Trajectory and Object Mass](https://dl.acm.org/doi/abs/10.1145/3491102.3517671) | CHI 2022 |   |
 
 
 
