@@ -66,7 +66,7 @@ A collection of papers about Reality Blending explorations in Mixed Reality envi
 | [DepthLab: Real-Time 3D Interaction With Depth Maps for Mobile Augmented Reality](https://augmentedperception.github.io/depthlab/) | UIST 2020 | [[code]](https://github.com/googlesamples/arcore-depth-lab) |  
 | [RealityEffects: Augmenting 3D Volumetric Videos with Object-Centric Annotation and Dynamic Visual Effects](https://dl.acm.org/doi/abs/10.1145/3643834.3661631) | DIS 2024 |  |
 | [Snap, Sweat, and Sketch: Designing Home Exercise Experiences for Augmented Reality Head-mounted Displays](https://dl.acm.org/doi/full/10.1145/3706598.3713575) | CHI 2025 |   |
-
+| [MineXR: Mining Personalized Extended Reality Interfaces](https://arxiv.org/pdf/2403.08057) | CHI 2024 | [dataset](https://github.com/Augmented-Perception-Lab/MineXR)  |
 
 ## Toolkit and Framework
 | Project Link | Source  |
